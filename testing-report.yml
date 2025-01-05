@@ -30,3 +30,11 @@
 - summary: |
     Просмотр доски с лучшими игроками
   status: pass
+
+- summary: |
+    Проверка мобильной версии
+  status: pass
+
+- summary: |
+    Проверка кроссбраузерности
+  status: pass
