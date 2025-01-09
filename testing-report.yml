@@ -25,7 +25,7 @@
 
 - summary: |
     Проверка начала игры другом
-  status: loss
+  status: fail
 
 - summary: |
     Проверка начала игры с ботом
