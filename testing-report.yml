@@ -24,15 +24,11 @@
   status: pass
 
 - summary: |
-    Проверка начала игры с другим пользователем
+    Проверка начала игры другом
   status: pass
 
 - summary: |
     Проверка начала игры с ботом
-  status: pass
-
-- summary: |
-    Проверка начала игры с другом
   status: pass
 
 - summary: |
@@ -45,4 +41,24 @@
 
 - summary: |
     Проверка кроссбраузерности
+  status: pass
+
+- summary: |
+    Проверка начала игры без регистрации
+  status: pass
+
+- summary: |
+    Проверка работы чата во время игры
+  status: pass
+
+- summary: |
+    Проверка возращения в игру при выходе в лобби
+  status: pass
+
+- summary: |
+    Проверка смены никнейма
+  status: pass
+
+- summary: |
+    Проверка смены языка программирования 
   status: pass
